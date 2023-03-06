@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("SECOND COMMIT - STABLE")
+        error for third commit
     }
 }
