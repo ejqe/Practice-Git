@@ -16,6 +16,8 @@ class MainActivity : AppCompatActivity() {
 
         println("Change 2")
 
+        println("branch change 1A")
+
         println("branch change 1B")
     }
 }
